@@ -1,0 +1,11 @@
+commit 0bb721929e298b4aacd1c78ca15502371f2f3837
+Author: andrey1pf <goncharenkoandrey8@gmail.com>
+Date:   Mon Oct 24 20:48:23 2022 +0300
+
+    add nginx
+
+commit 008ddbe74a89ad25cad1bb1ce4878a5f52423194
+Author: andrey1pf <goncharenkoandrey8@gmail.com>
+Date:   Mon Oct 24 20:47:43 2022 +0300
+
+    add readme file
